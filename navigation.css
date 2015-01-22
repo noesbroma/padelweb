@@ -1,0 +1,19 @@
+.nav-menu li{
+	display: inline;
+	padding: 8px;
+}
+
+#grid img{
+	width:100px;
+}
+
+article{
+	display: inline;
+	float: left;
+}
+
+footer{
+	clear: both;
+}
+
+
